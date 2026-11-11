@@ -49,7 +49,7 @@ Protected partitions require the application's advanced mode.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RootImageFlasher.git
+git clone https://github.com/samuuul12/RootImageFlasher.git
 cd RootImageFlasher
 ```
 
