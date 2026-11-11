@@ -1,24 +1,24 @@
-# Build e arquivos temporários do Gradle/Android
+# Build Gradle/Android
 .gradle/
 build/
 app/build/
 **/build/
 
-# Configurações locais da IDE e SDK (Contém caminhos locais do seu PC)
+# IDE e SDK
 local.properties
 .idea/
 *.iml
 .DS_Store
 
-# Arquivos de logs
+# logs
 *.log
 tree.log
 
-# Segurança (Jamais envie keystores e chaves privadas)
+# jks
 *.jks
 *.keystore
 keystore/
 
-# Capturas de tela e binários de build
+# apks build
 *.apk
 *.aar
